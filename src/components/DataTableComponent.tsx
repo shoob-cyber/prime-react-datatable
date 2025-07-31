@@ -9,7 +9,6 @@ import { Button } from 'primereact/button';
 import { OverlayPanel } from 'primereact/overlaypanel';
 import { InputNumber } from 'primereact/inputnumber';
 import type { InputNumberValueChangeEvent } from 'primereact/inputnumber';
-import { ChevronDownIcon } from '@primereact/icons/chevrondown';
 import axios from 'axios';
 
 interface Artwork {
@@ -183,7 +182,7 @@ const DataTableComponent: React.FC = () => {
         <div className="flex align-items-center gap-2">
           <Button 
             label="Select artworks..." 
-            icon={<ChevronDownIcon />}
+            icon={<i className="pi pi-chevron-down" />}
             iconPos="right"
             onClick={toggleOverlay}
             className="p-button-text"
