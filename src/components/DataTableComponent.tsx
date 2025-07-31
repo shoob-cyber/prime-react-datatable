@@ -9,7 +9,7 @@ import { Button } from 'primereact/button';
 import { OverlayPanel } from 'primereact/overlaypanel';
 import { InputNumber } from 'primereact/inputnumber';
 import type { InputNumberValueChangeEvent } from 'primereact/inputnumber';
-import { ChevronDownIcon } from 'primereact/icons/chevronDown';
+import { ChevronDownIcon } from '@primereact/icons/chevrondown';
 import axios from 'axios';
 
 interface Artwork {
