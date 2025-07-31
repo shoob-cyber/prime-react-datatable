@@ -25,7 +25,7 @@ npm or yarn
 Clone the repository
 
 bash
-git clone https://github.com/your-repo/art-gallery-app.git
+git clone [https://github.com/your-repo/art-gallery-app.git]https://github.com/shoob-cyber/prime-react-datatable)
 cd art-gallery-app
 Install dependencies
 
