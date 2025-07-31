@@ -3,15 +3,10 @@ This template provides a production-ready setup for building an art gallery appl
 
 # Features
 🚀 Vite-powered development with HMR
-
 ⚡ TypeScript for type safety
-
 🎨 PrimeReact UI components
-
 🖼️ Art Institute of Chicago API integration
-
 📊 Server-side pagination
-
 ✅ Multi-select functionality with persistent selection
 
 📱 Responsive design
@@ -95,7 +90,7 @@ To customize linting rules, modify the eslint.config.js file.
 Building for Production
 bash
 npm run build
-# or
+or
 yarn build
 This will create a production-ready build in the dist directory.
 
@@ -111,23 +106,18 @@ GET /artworks/{id} - Get details for a specific artwork
 
 # Contributing
 Fork the repository
-
 Create a new branch (git checkout -b feature/your-feature)
-
 Commit your changes (git commit -am 'Add some feature')
-
 Push to the branch (git push origin feature/your-feature)
-
 Open a Pull Request
 
 # License
 MIT License. See LICENSE for more information
 
-
-
-
-
-
+# Screenshots
+<img width="697" height="348" alt="image" src="https://github.com/user-attachments/assets/fef8dc11-943f-41ce-802b-c01081cd6183" />
+<img width="1782" height="635" alt="image" src="https://github.com/user-attachments/assets/596d54b5-fe4e-4bf4-a2c9-3b372b247095" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/8a0b8714-17fa-488c-a560-64bde60c160b" />
 
 
 
